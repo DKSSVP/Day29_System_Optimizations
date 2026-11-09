@@ -1,0 +1,33 @@
+DAY 29 - BASELINE PERFORMANCE RESULTS
+=============================================
+Test duration: 60.16 seconds
+Configured duration: 60 seconds
+
+VIDEO METRICS
+Captured frames: 1784
+Processed frames: 1783
+Average processing FPS: 29.64
+Video queue high-water mark: 7
+Average capture-to-processing latency: 9.91 ms
+Video enqueue wait: 0.0377 seconds
+
+AUDIO METRICS
+Captured chunks: 2585
+Processed chunks: 2584
+Estimated audio duration: 60.00 seconds
+Audio chunk duration: 23.22 ms
+Audio queue high-water mark: 15
+Average capture-to-processing latency: 11.84 ms
+Audio enqueue wait: 0.0689 seconds
+
+SYSTEM METRICS
+Process CPU time: 65.02 seconds
+Average process CPU utilization: 108.07%
+
+QUEUE STATUS
+Remaining video queue: 0
+Remaining audio queue: 0
+
+OUTPUT FILES
+Video exists: True
+Audio exists: True

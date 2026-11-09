@@ -1,0 +1,34 @@
+DAY 29 - OPTIMIZED PERFORMANCE RESULTS
+=============================================
+Test duration: 60.13 seconds
+
+VIDEO METRICS
+Captured frames: 1786
+Processed frames: 1785
+Dropped frames: 0
+Average processing FPS: 29.68
+Video queue high-water mark: 3
+Average capture-to-processing latency: 1.88 ms
+Average video processing time: 5.41 ms
+
+AUDIO METRICS
+Captured chunks: 5169
+Processed chunks: 5168
+Dropped chunks: 0
+Estimated audio duration: 60.00 seconds
+Audio chunk duration: 11.61 ms
+Audio queue high-water mark: 2
+Average capture-to-processing latency: 0.31 ms
+Average audio processing time: 0.19 ms
+
+SYSTEM METRICS
+Process CPU time: 80.45 seconds
+Average process CPU utilization: 133.79%
+
+QUEUE STATUS
+Remaining video queue: 1
+Remaining audio queue: 1
+
+OUTPUT FILES
+Video exists: True
+Audio exists: True
